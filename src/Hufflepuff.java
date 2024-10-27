@@ -20,6 +20,7 @@ public class Hufflepuff extends Hogwarts {
 
     public int getLoyalty() {
         return loyalty;
+
     }
 
     public void setLoyalty(int loyalty) {

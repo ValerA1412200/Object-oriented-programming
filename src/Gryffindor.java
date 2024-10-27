@@ -1,4 +1,5 @@
 public class Gryffindor extends Hogwarts {
+
     private int nobility;
     private int honor;
     private int courage;
@@ -33,4 +34,5 @@ public class Gryffindor extends Hogwarts {
     public void setCourage(int courage) {
         this.courage = courage;
     }
+
 }

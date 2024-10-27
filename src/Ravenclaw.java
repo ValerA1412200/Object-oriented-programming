@@ -30,6 +30,7 @@ public class Ravenclaw extends Hogwarts {
 
     public int getWit() {
         return wit;
+
     }
 
     public void setWit(int wit) {

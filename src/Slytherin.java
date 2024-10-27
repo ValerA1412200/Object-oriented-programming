@@ -24,7 +24,6 @@ public class Slytherin extends Hogwarts {
 
     public int getDetermination() {
         return determination;
-
     }
 
     public void setDetermination(int determination) {

@@ -9,7 +9,6 @@ public class Hogwarts {
         this.faculty = faculty;
         this.powerSorcery = powerSorcery;
         this.distanceTransgression = distanceTransgression;
-
     }
 
     public String getFullName() {

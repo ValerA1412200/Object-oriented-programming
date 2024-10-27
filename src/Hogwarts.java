@@ -13,6 +13,7 @@ public class Hogwarts {
 
     public String getFullName() {
         return fullName;
+
     }
 
     public void setFullName(String fullName) {
